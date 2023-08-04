@@ -1,0 +1,101 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "aaa",
+      "email": "aaa@gmail.com",
+      "phone": "+918899223344",
+      "gender": "M/F",
+      "address": "xyz"
+    },
+    {
+      "id": "2",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "+918899223344",
+      "gender": "M",
+      "address": "pune"
+    },
+    {
+      "id": "3",
+      "name": " sakshi gupta",
+      "email": "guptasakdhi@gmail.com",
+      "phone": "+918899223344",
+      "gender": "F",
+      "address": "nagpur"
+    },
+    {
+      "id": "4",
+      "name": " peater wagh",
+      "email": "waghtpeter@gmail.com",
+      "phone": "+918899223344",
+      "gender": "F",
+      "address": "navi mumbai"
+    },
+    {
+      "id": "5",
+      "name": "Dennis Schulist ",
+      "email": "dannyscur@gmail.com",
+      "phone": "+918899223344",
+      "gender": "F",
+      "address": "wagholi"
+    },
+    {
+      "id": "6",
+      "name": "ajay sharma",
+      "email": "sharmaaj@gmail.com",
+      "phone": "+918989898787",
+      "gender": "m",
+      "address": "aurangabad"
+    },
+    {
+      "id": "7",
+      "name": " akash shinde  ",
+      "email": "sharmaaj@gmail.com",
+      "phone": "+918989898786",
+      "gender": "m",
+      "address": "wagholi"
+    },
+    {
+      "id": "8",
+      "name": " sandip gade  ",
+      "email": "gadesandip@gmail.com",
+      "phone": "+918989898798",
+      "gender": "m",
+      "address": "gujrat"
+    },
+    {
+      "id": "9",
+      "name": " Kurtis Weissnat  ",
+      "email": "kurtis@gmail.com",
+      "phone": "+918989877798",
+      "gender": "m",
+      "address": "vashi"
+    },
+    {
+      "id": "10",
+      "name": " Kurtis Weissnat  ",
+      "email": "kurtis@gmail.com",
+      "phone": "+918989998798",
+      "gender": "m",
+      "address": " andheri"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,17 @@
+.container {
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 50%; /* or whatever width you want */
+  padding: 20px;
+  background: #9fdcf1;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+table,
+tr,
+th,
+td {
+  border: 1px solid orangered;
+  border-collapse: collapse;
+  padding: 5px 5px;
+}
